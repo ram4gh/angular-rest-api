@@ -1,0 +1,2 @@
+C:\Users\WStic\source\repos\AngularTest\AngularTest\obj\Debug\AngularTest.esproj.CoreCompileInputs.cache
+C:\Users\WStic\Documents\GitHub\Assessment\AngularTest\AngularTest\obj\Debug\AngularTest.esproj.CoreCompileInputs.cache

@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA45FF0E-60F1-442A-8BF3-3E8CD04989E1}|AngularTest\\AngularTest.esproj|c:\\users\\wstic\\documents\\github\\assessment\\angulartest\\angulartest\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA45FF0E-60F1-442A-8BF3-3E8CD04989E1}|AngularTest\\AngularTest.esproj|solutionrelative:angulartest\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9F861-81CA-4EFF-9C11-D8CABEB0D8EF}|AngTestAPI\\AngTestAPI.csproj|c:\\users\\wstic\\documents\\github\\assessment\\angulartest\\angtestapi\\datatransform\\idatatransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9F861-81CA-4EFF-9C11-D8CABEB0D8EF}|AngTestAPI\\AngTestAPI.csproj|solutionrelative:angtestapi\\datatransform\\idatatransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA45FF0E-60F1-442A-8BF3-3E8CD04989E1}|AngularTest\\AngularTest.esproj|c:\\users\\wstic\\documents\\github\\assessment\\angulartest\\angulartest\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FA45FF0E-60F1-442A-8BF3-3E8CD04989E1}|AngularTest\\AngularTest.esproj|solutionrelative:angulartest\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9F861-81CA-4EFF-9C11-D8CABEB0D8EF}|AngTestAPI\\AngTestAPI.csproj|c:\\users\\wstic\\documents\\github\\assessment\\angulartest\\angtestapi\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9F861-81CA-4EFF-9C11-D8CABEB0D8EF}|AngTestAPI\\AngTestAPI.csproj|solutionrelative:angtestapi\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9F861-81CA-4EFF-9C11-D8CABEB0D8EF}|AngTestAPI\\AngTestAPI.csproj|c:\\users\\wstic\\documents\\github\\assessment\\angulartest\\angtestapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9F861-81CA-4EFF-9C11-D8CABEB0D8EF}|AngTestAPI\\AngTestAPI.csproj|solutionrelative:angtestapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9F861-81CA-4EFF-9C11-D8CABEB0D8EF}|AngTestAPI\\AngTestAPI.csproj|c:\\users\\wstic\\documents\\github\\assessment\\angulartest\\angtestapi\\datatransform\\datatransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9F861-81CA-4EFF-9C11-D8CABEB0D8EF}|AngTestAPI\\AngTestAPI.csproj|solutionrelative:angtestapi\\datatransform\\datatransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9F861-81CA-4EFF-9C11-D8CABEB0D8EF}|AngTestAPI\\AngTestAPI.csproj|c:\\users\\wstic\\documents\\github\\assessment\\angulartest\\angtestapi\\models\\api_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9F861-81CA-4EFF-9C11-D8CABEB0D8EF}|AngTestAPI\\AngTestAPI.csproj|solutionrelative:angtestapi\\models\\api_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA45FF0E-60F1-442A-8BF3-3E8CD04989E1}|AngularTest\\AngularTest.esproj|c:\\users\\wstic\\documents\\github\\assessment\\angulartest\\angulartest\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FA45FF0E-60F1-442A-8BF3-3E8CD04989E1}|AngularTest\\AngularTest.esproj|solutionrelative:angulartest\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9F861-81CA-4EFF-9C11-D8CABEB0D8EF}|AngTestAPI\\AngTestAPI.csproj|c:\\users\\wstic\\documents\\github\\assessment\\angulartest\\angtestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9F861-81CA-4EFF-9C11-D8CABEB0D8EF}|AngTestAPI\\AngTestAPI.csproj|solutionrelative:angtestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "API_Test.cs",
+              "DocumentMoniker": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngTestAPI\\Models\\API_Test.cs",
+              "RelativeDocumentMoniker": "AngTestAPI\\Models\\API_Test.cs",
+              "ToolTip": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngTestAPI\\Models\\API_Test.cs",
+              "RelativeToolTip": "AngTestAPI\\Models\\API_Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:57:44.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataTransform.cs",
+              "DocumentMoniker": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngTestAPI\\DataTransform\\DataTransform.cs",
+              "RelativeDocumentMoniker": "AngTestAPI\\DataTransform\\DataTransform.cs",
+              "ToolTip": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngTestAPI\\DataTransform\\DataTransform.cs",
+              "RelativeToolTip": "AngTestAPI\\DataTransform\\DataTransform.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:47:08.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngTestAPI\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "AngTestAPI\\Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngTestAPI\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "AngTestAPI\\Controllers\\AddressController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:20:11.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngTestAPI\\Data\\ApiContext.cs",
+              "RelativeDocumentMoniker": "AngTestAPI\\Data\\ApiContext.cs",
+              "ToolTip": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngTestAPI\\Data\\ApiContext.cs",
+              "RelativeToolTip": "AngTestAPI\\Data\\ApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:58:14.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngularTest\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "AngularTest\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngularTest\\src\\app\\app.component.html",
+              "RelativeToolTip": "AngularTest\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-18T15:35:14.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngularTest\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "AngularTest\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngularTest\\src\\app\\app.component.ts",
+              "RelativeToolTip": "AngularTest\\src\\app\\app.component.ts",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-18T15:25:11.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDataTransform.cs",
+              "DocumentMoniker": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngTestAPI\\DataTransform\\IDataTransform.cs",
+              "RelativeDocumentMoniker": "AngTestAPI\\DataTransform\\IDataTransform.cs",
+              "ToolTip": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngTestAPI\\DataTransform\\IDataTransform.cs",
+              "RelativeToolTip": "AngTestAPI\\DataTransform\\IDataTransform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:04:53.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngTestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AngTestAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngTestAPI\\Program.cs",
+              "RelativeToolTip": "AngTestAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:17:10.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngularTest\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "AngularTest\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\WStic\\Documents\\GitHub\\Assessment\\AngularTest\\AngularTest\\src\\app\\app.module.ts",
+              "RelativeToolTip": "AngularTest\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-18T15:23:33.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

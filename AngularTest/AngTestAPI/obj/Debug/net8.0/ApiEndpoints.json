@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "AngTestAPI.Controllers.AddressController",
+    "Method": "CreateEdit",
+    "RelativePath": "api/Address/CreateEdit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "address",
+        "Type": "AngTestAPI.Models.API_Test",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AngTestAPI.Controllers.AddressController",
+    "Method": "GetAll",
+    "RelativePath": "api/Address/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
